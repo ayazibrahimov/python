@@ -30,6 +30,31 @@
 # print(a)
 
 
+# name1 = 'Ayaz'
+# name2 = 'Alik'
+
+
+# name1,name2 = name2,name1
+
+# print(name1,name2)
+
+
+
+info = 'This is life'
+
+
+data1 = info[1:6]
+data2 = info[:6]
+data3 = info[6:]
+
+
+print(data1)
+print(data2)
+print(data3)
+
+
+
+
 
 
 
